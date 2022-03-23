@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Molly Rusk 
 - 👀 I’m interested in exploring data sets to discover new insights, solve problems, and create solutions. 
 - 📫 How to reach me:  mollyrusktech@gmail.com | https://www.linkedin.com/in/molly-rusk/ 
-- 🔗 Link to Tableau Projects: https://public.tableau.com/views/AirBnBFullProject_16476305756090/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+- 🔗 Link to Tableau Projects: https://public.tableau.com/app/profile/molly.rusk
+
